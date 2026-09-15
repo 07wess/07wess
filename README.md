@@ -33,9 +33,13 @@
 
 ### 📊 GitHub İstatistiklerim
 
-![07wess GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=07wess&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=07wess&theme=tokyonight&hide_border=true" alt="07wess GitHub Streak" />
+</p>
 
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=07wess&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=07wess&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="07wess GitHub İstatistikleri" />
+</p>
 
 ---
 
