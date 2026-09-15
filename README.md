@@ -11,7 +11,7 @@
 - 🔭 Şu anda üzerinde çalıştığım projeler: **Web ve Mobil Uygulamalar**
 - 🌱 Şu an öğrendiğim teknolojiler: **React, TypeScript & Modern Web Mimarileri**
 - 💬 Bana şu konularda danışabilirsiniz: **Frontend & Backend Geliştirme**
-- ⚡ Eğlenceli gerçek: **Kahve olmadan kod yazamayanlardanım! ☕**
+
 
 ---
 
