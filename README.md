@@ -1,9 +1,7 @@
-[object Object],Merhaba, ben 07wess! 👋,[object Object],
-,[object Object],Yazılım Geliştirici & Teknoloji Meraklısı,[object Object],
+[object Object],
+,[object Object],
 
-,[object Object],
-  ,[object Object],
-,[object Object],
+![,[object Object],](,[object Object],)
 
 ---
 
@@ -18,36 +16,29 @@
 ,[object Object],
 
 ,[object Object],
-,[object Object],
-  ,[object Object],
-  ,[object Object],
-  ,[object Object],
-  ,[object Object],
-  ,[object Object],
-  ,[object Object],
-  ,[object Object],
-,[object Object],
+![,[object Object],](,[object Object],)
+![,[object Object],](,[object Object],)
+![,[object Object],](,[object Object],)
+![,[object Object],](,[object Object],)
+![,[object Object],](,[object Object],)
+![,[object Object],](,[object Object],)
+![,[object Object],](,[object Object],)
 
 ,[object Object],
-,[object Object],
-  ,[object Object],
-  ,[object Object],
-  ,[object Object],
-,[object Object],
+![,[object Object],](,[object Object],)
+![,[object Object],](,[object Object],)
+![,[object Object],](,[object Object],)
 
 ---
 
 ,[object Object],
 
-,[object Object],
-  ,[object Object],
-  ,[object Object],
-,[object Object],
+![,[object Object],](,[object Object],)
+
+![,[object Object],](,[object Object],)
 
 ---
 
 ,[object Object],
 
-,[object Object],
-  ,[object Object],
-,[object Object]
+[,[object Object],](,[object Object],)](,[object Object],)
