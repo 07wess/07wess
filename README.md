@@ -40,12 +40,7 @@
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=07wess&show_icons=true&theme=tokyonight&hide_border=true" alt="07wess GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=07wess&theme=tokyonight&hide_border=true" alt="07wess GitHub Streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=07wess&theme=react-dark&hide_border=true" alt="07wess Aktivite Grafiği" width="95%" />
+  <img src="https://streak-stats.demolab.com/?user=07wess&theme=tokyonight&hide_border=true" alt="07wess GitHub Streak" />
 </p>
 
 ---
